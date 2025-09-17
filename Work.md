@@ -13,6 +13,6 @@
     <h6>Date: 09/05/2025</h6>
 </body>
 <body>
-    <p>My article talks about what the Wisconsin Market Fall Arts and Craft Fair is about and why you should go to it. It is a three paragraph news article that talks about what you will find and the type of enviroment and atmosphere you will find. This fair is really helpful for our small town artists. Here is the link to the News Article <a href="https://github.com/Potatoman-ai/Monte-ai.github.io/blob/main/Folder/README.md">click here</a> .</p>
+    <p>My article talks about what the Wisconsin Market Fall Arts and Craft Fair is about and why you should go to it. It is a three paragraph news article that talks about what you will find and the type of enviroment and atmosphere you will find. This fair is really helpful for our small town artists. Here is the link to the News Article <a href="https://potatoman-ai.github.io/News-article1/">click here</a> .</p>
 </body>
 </html>
